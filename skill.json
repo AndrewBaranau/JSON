@@ -1,15 +1,15 @@
 // Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
  { 
- "Skill": [GitHub, 
-           Linux, 
-           Postam,
-           SQL, 
-           Python,
-           Android Studio,
-           Theory QA,
-           Soft skills,
-           Fiddler/Charles,
-           DevTool,
-           English practis
+ "Skill": ["GitHub", 
+           "Linux", 
+           "Postam",
+           "SQL", 
+           "Python",
+           "Android Studio",
+           "Theory QA",
+           "Soft skills",
+           "Fiddler/Charles",
+           "DevTool",
+           "English practis"
            ]
 } 
