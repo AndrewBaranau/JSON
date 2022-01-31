@@ -1,0 +1,17 @@
+
+// На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
+{
+  "ID": 2,
+  "Project": "Create bug_report",
+  "Issue Type": "Learnig",  
+  "Summary": "Create bug_report  in json  format" 
+  "Precondition": "GitHub",
+  "STR": "see file HW2_GIT.txt",
+  "Actual Results": "bug_report.json",
+  "Expected Results": "bag_report.json",
+  "Reporter": "AndreiBAranau",
+  "Priority": "low",
+  "Severity": "low",
+  "Environment": "PC",
+  "Attachment": "HW2_GIT.txt"
+}
