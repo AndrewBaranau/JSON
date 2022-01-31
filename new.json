@@ -1,1 +1,10 @@
-{"name":"Andrei"}
+{
+     "name": {
+	          "FirstName": "Andrei",
+			  "LastName": "Baranau"
+			  }
+     "age": 41,
+     "pet": Null,
+     "future_salary": 1770
+      
+    }
