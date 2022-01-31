@@ -1,6 +1,8 @@
-{
+//В файл preferences.json добавить информацию о своих предпочтениях 
+// (Любимый фильм, любимый сериал, любимая еда, любимое время года, стрaна которую хотели бы посетить) в формате JSON.
+   {
      "Best_film": "All USSR comedise",
-	 "best_serial": "Doctor House",
+     "Best_serial": "Doctor House",
      "Favorite_food": "Milk",
      "Favorit_season": "Winter",
      "CountryToVisit": "Japan"
